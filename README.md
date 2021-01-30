@@ -1,3 +1,3 @@
-# exam_piscine_heroku_redone
+# GHG Flux Estimation Portal
 
-## app built with "venv" virtual environment
+## app built with the 'venv' virtual environment module from Python
